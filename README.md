@@ -6,8 +6,6 @@ It's a website that has been designed to mimic the design of the popular chat an
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://discordwebapp.netlify.app/">**Visit Now** 🚀</a>
-
 <br>
 
 ## 📌 Tech Stack
@@ -18,7 +16,4 @@ It's a website that has been designed to mimic the design of the popular chat an
 <br>
 <br>
 
-## 📬 Connect With Me
 
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/indra-shekhar/)
-- **Twitter** - [@Indra684](https://twitter.com/Indra684)
